@@ -7,6 +7,7 @@ https://github.com/Nujabesuuu/AlarmForecast
 📍 Kyiv, Ukraine · 📫 opriaevgen@gmail.com · [LinkedIn](https://www.linkedin.com/in/yevhenii-opria) · [Tableau Public](https://public.tableau.com/app/profile/eugene.opria/vizzes)
 
 ---
+📊 Currently learning: advanced Tableau & Power BI
 
 ### 🚀 Featured projects
 
