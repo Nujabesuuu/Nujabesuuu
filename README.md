@@ -15,7 +15,7 @@ My track: Telethon pipeline that collected **385K+ Telegram messages**, 20 hourl
 
 **[Fintech Transaction Analytics](https://github.com/Nujabesuuu/fintech-transaction-analytics)** — SQL + Python EDA of financial transactions: fraud patterns, amount distributions, spending trends.
 
-**[COVID-19 Global Data Analysis](https://github.com/Nujabesuuu/Covid-19)** — SQL data cleaning & analytical queries + an [interactive Tableau dashboard](https://public.tableau.com/app/profile/eugene.opria/vizzes) (global KPIs, deaths by continent, infection-rate map, country trends with forecast).
+**[COVID-19 Global Data Analysis](https://github.com/Nujabesuuu/covid-sql-tableau-analysis)** — SQL data cleaning & analytical queries + an [interactive Tableau dashboard](https://public.tableau.com/app/profile/eugene.opria/vizzes) (global KPIs, deaths by continent, infection-rate map, country trends with forecast).
 
 ---
 
