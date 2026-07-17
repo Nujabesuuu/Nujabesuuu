@@ -1,5 +1,3 @@
-## Hi there 👋
-https://github.com/Nujabesuuu/AlarmForecast
 ### Hi, I'm Yevhenii Opria 👋
 
 **Junior Data Analyst / Data Scientist** — Applied Mathematics student at Kyiv-Mohyla Academy, GoIT Data Science graduate. I turn raw data into decisions with Python, SQL, and NLP.
