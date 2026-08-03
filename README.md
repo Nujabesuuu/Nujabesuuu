@@ -21,6 +21,9 @@ My track: Telethon pipeline that collected **385K+ Telegram messages**, 20 hourl
 ### 🛠 Stack
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `SQL / PostgreSQL` `Tableau` `NLP (TF-IDF, Pymorphy3)` `Jupyter` `Flask` `Git` `Excel`
+
+### languages
+`English - B2` `Ukrainian - native`
 <!--
 **Nujabesuuu/Nujabesuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
